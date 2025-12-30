@@ -1,1 +1,2 @@
 # KinectLocalization
+The presented work demonstrate the efficency of the RGBD localization. The sensor is localized in the environment by using epipolar geoemtry to match consecutive RGB frames and the 3D depth map to compute the absolute orientation.
